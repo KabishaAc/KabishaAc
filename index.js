@@ -1,3 +1,5 @@
+let home = document.getElementById('home')
+home.style.background = 'url(https://ik.imagekit.io/dmydh1fae/bg2_aKEczdfPA.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1662040055084)'
 let navbutton = document.getElementById('shrinknav')
 let navbar = document.getElementById('navbar')
 let closenav = document.getElementById('closenav')
